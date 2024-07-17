@@ -1,67 +1,1544 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1721180508372 tunnel running, 3 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1721180577165 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
 photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721180511454 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721180580206 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
 photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721180514514 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721180583252 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
 photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721180517604 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721180586286 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
 photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721180520707 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721180589352 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
 photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721180524136 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721180592395 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
 photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721180527201 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721180595484 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
 photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721180530259 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721180598549 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
 photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721180533305 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721180601587 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
 photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1721180536364 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721180604682 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180607732 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180610788 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180613901 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180616938 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180620046 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180623106 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180626158 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180629214 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180632286 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180635364 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180638424 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180641681 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180644717 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180647760 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180650826 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180653875 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180656928 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180659981 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180663039 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180666105 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180669188 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180672249 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180675285 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180678323 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180681428 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180684473 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180687529 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180690616 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180693675 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180696741 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180699817 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180702880 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180706061 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180709118 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180712170 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180715221 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180718289 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180721355 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180724416 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180727478 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180730533 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180733671 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180736718 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180739763 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180742801 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180745848 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180748903 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180751960 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180755055 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180758157 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180761238 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180764347 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180767398 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180770463 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180773540 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180776593 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180779691 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180782766 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180785822 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180788867 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180791911 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180794949 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180798001 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180801102 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180804165 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180807204 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180810306 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180813364 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180816433 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180819488 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180822538 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180825589 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180828659 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180831706 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180834754 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180837828 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180840871 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180843919 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180846977 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180850047 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180853094 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180856149 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180859209 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180862290 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180865352 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180868404 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180871506 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180874572 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180877636 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180880697 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180883790 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180886844 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180889913 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180892980 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180896355 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180899435 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180902499 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180905565 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180908599 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180911642 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180914697 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180917763 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180920848 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180923906 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180926948 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180930003 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180933073 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180936113 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180939193 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180942258 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180945305 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180948411 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180951474 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180954528 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180957590 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180960674 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180963844 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180966913 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180969946 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180973016 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180976078 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180979142 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180982205 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180985269 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180988330 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180991384 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180994430 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721180997512 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181000555 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181003643 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181006811 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181009918 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181012978 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181016016 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181019137 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181022175 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181025246 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181028328 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181031404 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181034497 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181037580 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181040645 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181043755 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181046806 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181049899 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181052950 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181056029 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181059079 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181062138 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181065179 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181068216 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181071271 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181074337 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181077401 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181080463 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181083512 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181086576 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181089640 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181092671 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181095763 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181098840 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181101905 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181104957 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181108018 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181111072 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181114125 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181117207 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181120256 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181123560 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181126616 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181129673 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181132734 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181135800 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181138875 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181141965 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181145114 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181148160 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181151222 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181154301 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181157395 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181160447 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181163501 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181166560 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181169607 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181172677 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181175743 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181178776 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181181836 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181184892 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181187938 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181190987 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181194109 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181197175 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181200219 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181203280 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181206319 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181209364 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181212423 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181215484 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181218549 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181221630 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181224670 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181227726 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181230781 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181233826 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181236892 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181239938 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181243073 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181246151 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181249203 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+en-treated.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+open-ourselves.gl.at.ply.gg:1817 => 127.0.0.1:19132 (minecraft-bedrock)
+photo-salaries.gl.at.ply.gg:18872 => 127.0.0.1:18872 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1721181252272 tunnel running, 3 tunnels registered
 
 
 TUNNELS
